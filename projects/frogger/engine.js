@@ -125,10 +125,10 @@
           * for that particular row of the game level.
           */
          var rowImages = [
-                 'images/water.jpg', // Top row is water
+                 'images/water2.jpg', // Top row is water
                  'images/wall.jpg', // Row 1 of 3 of stone
                  'images/wall.jpg', // Row 2 of 3 of stone
-                 'images/grass.jpg', // Row of grass
+                 'images/grass2.jpg', // Row of grass
                 
 
             ],
@@ -194,8 +194,8 @@
       */
      Resources.load([
          'images/wall.jpg',
-         'images/water.jpg',
-         'images/grass.jpg',
+         'images/water2.jpg',
+         'images/grass2.jpg',
          'images/bug.png',
          'images/girl_ext.png'
       
